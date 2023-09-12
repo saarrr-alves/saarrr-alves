@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @saarrr-alves
-- 👀 I’m interested in web design and web devolopment.
-- 🌱 I’m currently learning HTML, CSS, JavaScript and Python.
-- 💞️ I’m looking to collaborate on any thing relationated with my interestings.
-<!-- - 📫 How to reach me: send -->
+- 👋 Olá! Eu me chamo Sara Alves.
+- 👀 Tenho interesse em Web Design e Desenvolvimento Web.
+- 🌱 Atualmente, estou  aprendendo HTML, CSS, JavaScript e Python.
+<!-- - 💞️ I’m looking to collaborate on any thing relationated with my interestings.
+- 📫 How to reach me: send -->
 
 <!---
 saarrr-alves/saarrr-alves is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
