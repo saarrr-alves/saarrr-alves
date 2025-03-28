@@ -1,6 +1,6 @@
 - 👋 Olá! Eu me chamo Sara Alves.
 - 👀 Tenho interesse em Web Design, Desenvolvimento Web, UI e UX, SAP, etc.
-- 🌱 Atualmente, estou  aprendendo HTML, CSS, JavaScript, Python, Power BI e SAP.
+- 🌱 Atualmente, estou  aprendendo HTML, CSS, JavaScript e Pytho.
 <!-- - 💞️ I’m looking to collaborate on any thing relationated with my interestings.
 - 📫 How to reach me: send -->
 
