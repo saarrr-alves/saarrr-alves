@@ -1,4 +1,4 @@
-<h2 align="center">Oi 👋! Meu nome é Sara e sou uma Desenvolvedora **`Full Stack`**</h2>
+<h2 align="center">Oi 👋! Meu nome é Sara e sou uma Desenvolvedora Full Stack</h2>
 
 ###
 
