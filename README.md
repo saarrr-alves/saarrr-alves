@@ -1,8 +1,6 @@
-<h2 align="center">Oi 👋! Meu nome é Sara e sou uma Desenvolvedora Full Stack</h2>
+# Oi 👋! Meu nome é Sara e sou uma **`Desenvolvedora Full Stack`**
 
-###
-
-<h3 align="left">📊 Estatísticas</H2>
+<h2 align="left">📊 Estatísticas</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saarrr-alves&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -11,7 +9,7 @@
 
 ---
 
-<h3 align="left">🤖 Linguagens e Tecnologias</h3>
+<h2 align="left">🤖 Linguagens e Tecnologias</h2>
 
 <div style="display: inline_block">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -35,12 +33,13 @@
 
 ---
 
-<h3 align="left">📱 Contato</h3>
+<h2 align="left">📱 Contato</h2>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/saraalvesmaia/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+  <a href="mailto:saraealvesemaia@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logo=gmail&logoColor=white" target="_blank">
+  </a>
 </div>
-
-###
